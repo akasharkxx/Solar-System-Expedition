@@ -1,0 +1,890 @@
+fileFormatVersion: 2
+guid: 0bd8eac69103ec74483ccf0e25c6ee96
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 1346747437974605061
+    second: Blackhole_ring|Take 001_Blackhole_core001
+  - first:
+      74: -2380618562289706145
+    second: Blackhole_ring|Take 001_Blackhole_core002
+  - first:
+      74: 8200027102248113431
+    second: Blackhole_ring|Take 001_Blackhole_ring
+  - first:
+      74: -5624755754100360588
+    second: Blackhole_ring|Take 001_Blackhole_skin_001
+  - first:
+      74: -5822291197819644506
+    second: Blackhole_ring|Take 001_Blackhole_skin_002
+  - first:
+      74: 3559482082360418128
+    second: Blackhole_ring|Take 001_Blackhole_skin_003
+  - first:
+      74: 3928442920883793767
+    second: Blackhole_ring|Take 001_Blackhole_skin_004
+  - first:
+      74: 1014188719826032806
+    second: Blackhole_ring|Take 001_Blackhole_skin_005
+  - first:
+      74: 1180522968975911885
+    second: Blackhole_ring|Take 001_Blackhole_skin_006
+  - first:
+      74: 1375358253359570800
+    second: Blackhole_ring|Take 001_Blackhole_skin_007
+  - first:
+      74: -1338452768879274392
+    second: Blackhole_ring|Take 001_Blackhole_skin_008
+  - first:
+      74: 8785359438444532196
+    second: Blackhole_ring|Take 001_Blackhole_skin_009
+  - first:
+      74: -8796008344300719063
+    second: Blackhole_ring|Take 001_Blackhole_skin_010
+  - first:
+      74: -7970318533791651465
+    second: Blackhole_ring|Take 001_Blackhole_skin_011
+  - first:
+      74: -2137212340545715508
+    second: Blackhole_ring|Take 001_Blackhole_skin_012
+  - first:
+      74: -8171063151459533291
+    second: Blackhole_ring|Take 001_Blackhole_skin_013
+  - first:
+      74: -4633636589040356194
+    second: Blackhole_skin_001|Take 001_Blackhole_core001
+  - first:
+      74: 8547173372132954200
+    second: Blackhole_skin_001|Take 001_Blackhole_core002
+  - first:
+      74: 4432517880483033014
+    second: Blackhole_skin_001|Take 001_Blackhole_ring
+  - first:
+      74: 3749701529300375130
+    second: Blackhole_skin_001|Take 001_Blackhole_skin_001
+  - first:
+      74: 5726686237290692150
+    second: Blackhole_skin_001|Take 001_Blackhole_skin_002
+  - first:
+      74: 7246198759980276817
+    second: Blackhole_skin_001|Take 001_Blackhole_skin_003
+  - first:
+      74: -8698094758950168718
+    second: Blackhole_skin_001|Take 001_Blackhole_skin_004
+  - first:
+      74: -3962778344796143740
+    second: Blackhole_skin_001|Take 001_Blackhole_skin_005
+  - first:
+      74: 5619601689417541030
+    second: Blackhole_skin_001|Take 001_Blackhole_skin_006
+  - first:
+      74: -3432579839968083268
+    second: Blackhole_skin_001|Take 001_Blackhole_skin_007
+  - first:
+      74: 3952436122320877728
+    second: Blackhole_skin_001|Take 001_Blackhole_skin_008
+  - first:
+      74: 6609575925004586484
+    second: Blackhole_skin_001|Take 001_Blackhole_skin_009
+  - first:
+      74: 4004211584371662870
+    second: Blackhole_skin_001|Take 001_Blackhole_skin_010
+  - first:
+      74: -6811053228856694904
+    second: Blackhole_skin_001|Take 001_Blackhole_skin_011
+  - first:
+      74: -5226816258877854615
+    second: Blackhole_skin_001|Take 001_Blackhole_skin_012
+  - first:
+      74: 9064678602903181395
+    second: Blackhole_skin_001|Take 001_Blackhole_skin_013
+  - first:
+      74: 3306853542712332106
+    second: Blackhole_skin_002|Take 001_Blackhole_core001
+  - first:
+      74: -2419710178823047896
+    second: Blackhole_skin_002|Take 001_Blackhole_core002
+  - first:
+      74: 4727541870447128331
+    second: Blackhole_skin_002|Take 001_Blackhole_ring
+  - first:
+      74: -1700540258590892294
+    second: Blackhole_skin_002|Take 001_Blackhole_skin_001
+  - first:
+      74: -2095190217018776214
+    second: Blackhole_skin_002|Take 001_Blackhole_skin_002
+  - first:
+      74: -8857690667013904332
+    second: Blackhole_skin_002|Take 001_Blackhole_skin_003
+  - first:
+      74: 3203397157491748666
+    second: Blackhole_skin_002|Take 001_Blackhole_skin_004
+  - first:
+      74: -8509858995063094193
+    second: Blackhole_skin_002|Take 001_Blackhole_skin_005
+  - first:
+      74: 6681778216731065135
+    second: Blackhole_skin_002|Take 001_Blackhole_skin_006
+  - first:
+      74: -2136273803778166830
+    second: Blackhole_skin_002|Take 001_Blackhole_skin_007
+  - first:
+      74: -3622991853439516478
+    second: Blackhole_skin_002|Take 001_Blackhole_skin_008
+  - first:
+      74: -3211022270057920776
+    second: Blackhole_skin_002|Take 001_Blackhole_skin_009
+  - first:
+      74: -1530653514193615726
+    second: Blackhole_skin_002|Take 001_Blackhole_skin_010
+  - first:
+      74: -7769353241420275045
+    second: Blackhole_skin_002|Take 001_Blackhole_skin_011
+  - first:
+      74: -2312986485724646410
+    second: Blackhole_skin_002|Take 001_Blackhole_skin_012
+  - first:
+      74: 2782883349861737225
+    second: Blackhole_skin_002|Take 001_Blackhole_skin_013
+  - first:
+      74: 5497016233480381043
+    second: Blackhole_skin_003|Take 001_Blackhole_core001
+  - first:
+      74: 1771390253065398085
+    second: Blackhole_skin_003|Take 001_Blackhole_core002
+  - first:
+      74: 6783061725916414098
+    second: Blackhole_skin_003|Take 001_Blackhole_ring
+  - first:
+      74: 8050917695200412542
+    second: Blackhole_skin_003|Take 001_Blackhole_skin_001
+  - first:
+      74: -1288643523415989352
+    second: Blackhole_skin_003|Take 001_Blackhole_skin_002
+  - first:
+      74: -2575268555326570520
+    second: Blackhole_skin_003|Take 001_Blackhole_skin_003
+  - first:
+      74: -5215095406556579838
+    second: Blackhole_skin_003|Take 001_Blackhole_skin_004
+  - first:
+      74: -2487992826729585021
+    second: Blackhole_skin_003|Take 001_Blackhole_skin_005
+  - first:
+      74: -4252522199257944831
+    second: Blackhole_skin_003|Take 001_Blackhole_skin_006
+  - first:
+      74: 7758569679392632988
+    second: Blackhole_skin_003|Take 001_Blackhole_skin_007
+  - first:
+      74: -7659710250197430247
+    second: Blackhole_skin_003|Take 001_Blackhole_skin_008
+  - first:
+      74: 4683107381229843438
+    second: Blackhole_skin_003|Take 001_Blackhole_skin_009
+  - first:
+      74: -1880149893741283225
+    second: Blackhole_skin_003|Take 001_Blackhole_skin_010
+  - first:
+      74: -5588135705944560147
+    second: Blackhole_skin_003|Take 001_Blackhole_skin_011
+  - first:
+      74: 1489433184213292028
+    second: Blackhole_skin_003|Take 001_Blackhole_skin_012
+  - first:
+      74: 8774828418543036989
+    second: Blackhole_skin_003|Take 001_Blackhole_skin_013
+  - first:
+      74: -3604860525894801555
+    second: Blackhole_skin_004|Take 001_Blackhole_core001
+  - first:
+      74: -5042488954774970908
+    second: Blackhole_skin_004|Take 001_Blackhole_core002
+  - first:
+      74: 1986675840816026227
+    second: Blackhole_skin_004|Take 001_Blackhole_ring
+  - first:
+      74: 8778590368402784748
+    second: Blackhole_skin_004|Take 001_Blackhole_skin_001
+  - first:
+      74: -6586542602241616676
+    second: Blackhole_skin_004|Take 001_Blackhole_skin_002
+  - first:
+      74: 2571421556426091370
+    second: Blackhole_skin_004|Take 001_Blackhole_skin_003
+  - first:
+      74: -8763016018803282312
+    second: Blackhole_skin_004|Take 001_Blackhole_skin_004
+  - first:
+      74: 8084923101227354608
+    second: Blackhole_skin_004|Take 001_Blackhole_skin_005
+  - first:
+      74: -1149500751378416540
+    second: Blackhole_skin_004|Take 001_Blackhole_skin_006
+  - first:
+      74: 5638199106361406589
+    second: Blackhole_skin_004|Take 001_Blackhole_skin_007
+  - first:
+      74: 3775354095059108589
+    second: Blackhole_skin_004|Take 001_Blackhole_skin_008
+  - first:
+      74: 8311168510697413554
+    second: Blackhole_skin_004|Take 001_Blackhole_skin_009
+  - first:
+      74: -566581190562770746
+    second: Blackhole_skin_004|Take 001_Blackhole_skin_010
+  - first:
+      74: -6696955028090377058
+    second: Blackhole_skin_004|Take 001_Blackhole_skin_011
+  - first:
+      74: 6366668857897029498
+    second: Blackhole_skin_004|Take 001_Blackhole_skin_012
+  - first:
+      74: 2737034331862730258
+    second: Blackhole_skin_004|Take 001_Blackhole_skin_013
+  - first:
+      74: 1936644228250466584
+    second: Blackhole_skin_005|Take 001_Blackhole_core001
+  - first:
+      74: 6045821691645093561
+    second: Blackhole_skin_005|Take 001_Blackhole_core002
+  - first:
+      74: 697018949358949159
+    second: Blackhole_skin_005|Take 001_Blackhole_ring
+  - first:
+      74: 3860072480086243587
+    second: Blackhole_skin_005|Take 001_Blackhole_skin_001
+  - first:
+      74: -3733386588041999865
+    second: Blackhole_skin_005|Take 001_Blackhole_skin_002
+  - first:
+      74: -8580396269597755858
+    second: Blackhole_skin_005|Take 001_Blackhole_skin_003
+  - first:
+      74: 8797139036510567404
+    second: Blackhole_skin_005|Take 001_Blackhole_skin_004
+  - first:
+      74: -7860614398941656818
+    second: Blackhole_skin_005|Take 001_Blackhole_skin_005
+  - first:
+      74: -7094100081580383742
+    second: Blackhole_skin_005|Take 001_Blackhole_skin_006
+  - first:
+      74: 1422515537163505906
+    second: Blackhole_skin_005|Take 001_Blackhole_skin_007
+  - first:
+      74: -2921671869330235770
+    second: Blackhole_skin_005|Take 001_Blackhole_skin_008
+  - first:
+      74: -6724484849428127416
+    second: Blackhole_skin_005|Take 001_Blackhole_skin_009
+  - first:
+      74: 154149320997274103
+    second: Blackhole_skin_005|Take 001_Blackhole_skin_010
+  - first:
+      74: -9188126585626503997
+    second: Blackhole_skin_005|Take 001_Blackhole_skin_011
+  - first:
+      74: 3332933200077310275
+    second: Blackhole_skin_005|Take 001_Blackhole_skin_012
+  - first:
+      74: -8948756058499191150
+    second: Blackhole_skin_005|Take 001_Blackhole_skin_013
+  - first:
+      74: -7999282415040917916
+    second: Blackhole_skin_006|Take 001_Blackhole_core001
+  - first:
+      74: -5142108671631212174
+    second: Blackhole_skin_006|Take 001_Blackhole_core002
+  - first:
+      74: -7481807986135127470
+    second: Blackhole_skin_006|Take 001_Blackhole_ring
+  - first:
+      74: 6392978013096630850
+    second: Blackhole_skin_006|Take 001_Blackhole_skin_001
+  - first:
+      74: 5988987414134887387
+    second: Blackhole_skin_006|Take 001_Blackhole_skin_002
+  - first:
+      74: -1843399955775748174
+    second: Blackhole_skin_006|Take 001_Blackhole_skin_003
+  - first:
+      74: -2931837245336923285
+    second: Blackhole_skin_006|Take 001_Blackhole_skin_004
+  - first:
+      74: 8528245004443004987
+    second: Blackhole_skin_006|Take 001_Blackhole_skin_005
+  - first:
+      74: 7031585806627694308
+    second: Blackhole_skin_006|Take 001_Blackhole_skin_006
+  - first:
+      74: 2033637822003595124
+    second: Blackhole_skin_006|Take 001_Blackhole_skin_007
+  - first:
+      74: 6674402838973927722
+    second: Blackhole_skin_006|Take 001_Blackhole_skin_008
+  - first:
+      74: 6505962554024347565
+    second: Blackhole_skin_006|Take 001_Blackhole_skin_009
+  - first:
+      74: 8860652301500198032
+    second: Blackhole_skin_006|Take 001_Blackhole_skin_010
+  - first:
+      74: 1477667023926130451
+    second: Blackhole_skin_006|Take 001_Blackhole_skin_011
+  - first:
+      74: -5418237444567853866
+    second: Blackhole_skin_006|Take 001_Blackhole_skin_012
+  - first:
+      74: -7790317098440747845
+    second: Blackhole_skin_006|Take 001_Blackhole_skin_013
+  - first:
+      74: 5842274668675298201
+    second: Blackhole_skin_007|Take 001_Blackhole_core001
+  - first:
+      74: 5651132304984114038
+    second: Blackhole_skin_007|Take 001_Blackhole_core002
+  - first:
+      74: -2672428544915110804
+    second: Blackhole_skin_007|Take 001_Blackhole_ring
+  - first:
+      74: 730862727681613249
+    second: Blackhole_skin_007|Take 001_Blackhole_skin_001
+  - first:
+      74: -7898089817792645632
+    second: Blackhole_skin_007|Take 001_Blackhole_skin_002
+  - first:
+      74: -3327408801384095207
+    second: Blackhole_skin_007|Take 001_Blackhole_skin_003
+  - first:
+      74: 9002678272342532588
+    second: Blackhole_skin_007|Take 001_Blackhole_skin_004
+  - first:
+      74: -8465194536450619799
+    second: Blackhole_skin_007|Take 001_Blackhole_skin_005
+  - first:
+      74: 6620978466985851427
+    second: Blackhole_skin_007|Take 001_Blackhole_skin_006
+  - first:
+      74: 6031325081440912002
+    second: Blackhole_skin_007|Take 001_Blackhole_skin_007
+  - first:
+      74: -5338985607153512840
+    second: Blackhole_skin_007|Take 001_Blackhole_skin_008
+  - first:
+      74: 6919360934450576598
+    second: Blackhole_skin_007|Take 001_Blackhole_skin_009
+  - first:
+      74: 5073617541315363710
+    second: Blackhole_skin_007|Take 001_Blackhole_skin_010
+  - first:
+      74: 1282690150554524186
+    second: Blackhole_skin_007|Take 001_Blackhole_skin_011
+  - first:
+      74: 5238430833063289317
+    second: Blackhole_skin_007|Take 001_Blackhole_skin_012
+  - first:
+      74: 5103266951856499844
+    second: Blackhole_skin_007|Take 001_Blackhole_skin_013
+  - first:
+      74: -265894067264676387
+    second: Blackhole_core001|Take 001_Blackhole_core001
+  - first:
+      74: -7453290740352016772
+    second: Blackhole_core001|Take 001_Blackhole_core002
+  - first:
+      74: 2028273535674315566
+    second: Blackhole_core001|Take 001_Blackhole_ring
+  - first:
+      74: -8661071184900607027
+    second: Blackhole_core001|Take 001_Blackhole_skin_001
+  - first:
+      74: -7858259042371518706
+    second: Blackhole_core001|Take 001_Blackhole_skin_002
+  - first:
+      74: 7288086044907123579
+    second: Blackhole_core001|Take 001_Blackhole_skin_003
+  - first:
+      74: 6495913486293436487
+    second: Blackhole_core001|Take 001_Blackhole_skin_004
+  - first:
+      74: -4098177145111680583
+    second: Blackhole_core001|Take 001_Blackhole_skin_005
+  - first:
+      74: -5202264204432491379
+    second: Blackhole_core001|Take 001_Blackhole_skin_006
+  - first:
+      74: -3531019152165669040
+    second: Blackhole_core001|Take 001_Blackhole_skin_007
+  - first:
+      74: -4637644795347755322
+    second: Blackhole_core001|Take 001_Blackhole_skin_008
+  - first:
+      74: -2133946446432905763
+    second: Blackhole_core001|Take 001_Blackhole_skin_009
+  - first:
+      74: 7336624980684935778
+    second: Blackhole_core001|Take 001_Blackhole_skin_010
+  - first:
+      74: -2531253530534525151
+    second: Blackhole_core001|Take 001_Blackhole_skin_011
+  - first:
+      74: 4296191090673156025
+    second: Blackhole_core001|Take 001_Blackhole_skin_012
+  - first:
+      74: -452448261395581082
+    second: Blackhole_core001|Take 001_Blackhole_skin_013
+  - first:
+      74: -8058655608738963627
+    second: Blackhole_skin_008|Take 001_Blackhole_core001
+  - first:
+      74: -7775009351412312994
+    second: Blackhole_skin_008|Take 001_Blackhole_core002
+  - first:
+      74: -1545882064941561189
+    second: Blackhole_skin_008|Take 001_Blackhole_ring
+  - first:
+      74: 5185486580822930754
+    second: Blackhole_skin_008|Take 001_Blackhole_skin_001
+  - first:
+      74: 3286086698994964653
+    second: Blackhole_skin_008|Take 001_Blackhole_skin_002
+  - first:
+      74: 363707017497151018
+    second: Blackhole_skin_008|Take 001_Blackhole_skin_003
+  - first:
+      74: -3945947398738234
+    second: Blackhole_skin_008|Take 001_Blackhole_skin_004
+  - first:
+      74: 7897774583589161219
+    second: Blackhole_skin_008|Take 001_Blackhole_skin_005
+  - first:
+      74: -3782931802622066593
+    second: Blackhole_skin_008|Take 001_Blackhole_skin_006
+  - first:
+      74: 1229393665231111319
+    second: Blackhole_skin_008|Take 001_Blackhole_skin_007
+  - first:
+      74: 6884103083436128900
+    second: Blackhole_skin_008|Take 001_Blackhole_skin_008
+  - first:
+      74: -3515348537159034990
+    second: Blackhole_skin_008|Take 001_Blackhole_skin_009
+  - first:
+      74: 1448127832238520406
+    second: Blackhole_skin_008|Take 001_Blackhole_skin_010
+  - first:
+      74: 1491271578282718130
+    second: Blackhole_skin_008|Take 001_Blackhole_skin_011
+  - first:
+      74: -5191184583682606405
+    second: Blackhole_skin_008|Take 001_Blackhole_skin_012
+  - first:
+      74: -8300128687109302752
+    second: Blackhole_skin_008|Take 001_Blackhole_skin_013
+  - first:
+      74: -4114204310403210154
+    second: Blackhole_skin_009|Take 001_Blackhole_core001
+  - first:
+      74: 7737490800575012839
+    second: Blackhole_skin_009|Take 001_Blackhole_core002
+  - first:
+      74: 1661458896218226443
+    second: Blackhole_skin_009|Take 001_Blackhole_ring
+  - first:
+      74: -8243575182991422125
+    second: Blackhole_skin_009|Take 001_Blackhole_skin_001
+  - first:
+      74: -6171560152247980084
+    second: Blackhole_skin_009|Take 001_Blackhole_skin_002
+  - first:
+      74: 7998668492181452121
+    second: Blackhole_skin_009|Take 001_Blackhole_skin_003
+  - first:
+      74: 325522511849451486
+    second: Blackhole_skin_009|Take 001_Blackhole_skin_004
+  - first:
+      74: 4432996004275893817
+    second: Blackhole_skin_009|Take 001_Blackhole_skin_005
+  - first:
+      74: 985787194836269055
+    second: Blackhole_skin_009|Take 001_Blackhole_skin_006
+  - first:
+      74: -4205031780711805484
+    second: Blackhole_skin_009|Take 001_Blackhole_skin_007
+  - first:
+      74: 67108260468330549
+    second: Blackhole_skin_009|Take 001_Blackhole_skin_008
+  - first:
+      74: -550587962151392217
+    second: Blackhole_skin_009|Take 001_Blackhole_skin_009
+  - first:
+      74: -3968033746224672856
+    second: Blackhole_skin_009|Take 001_Blackhole_skin_010
+  - first:
+      74: 133403610225197696
+    second: Blackhole_skin_009|Take 001_Blackhole_skin_011
+  - first:
+      74: -5477051007225867238
+    second: Blackhole_skin_009|Take 001_Blackhole_skin_012
+  - first:
+      74: 3726865376423967515
+    second: Blackhole_skin_009|Take 001_Blackhole_skin_013
+  - first:
+      74: -2034396165132951719
+    second: Blackhole_skin_010|Take 001_Blackhole_core001
+  - first:
+      74: 8011044522665711231
+    second: Blackhole_skin_010|Take 001_Blackhole_core002
+  - first:
+      74: -8924919272645610661
+    second: Blackhole_skin_010|Take 001_Blackhole_ring
+  - first:
+      74: 2744538526612560226
+    second: Blackhole_skin_010|Take 001_Blackhole_skin_001
+  - first:
+      74: 5429804474835891745
+    second: Blackhole_skin_010|Take 001_Blackhole_skin_002
+  - first:
+      74: -9172517480510441193
+    second: Blackhole_skin_010|Take 001_Blackhole_skin_003
+  - first:
+      74: -1653594818738031496
+    second: Blackhole_skin_010|Take 001_Blackhole_skin_004
+  - first:
+      74: 6532351870915975234
+    second: Blackhole_skin_010|Take 001_Blackhole_skin_005
+  - first:
+      74: 8283439825381566137
+    second: Blackhole_skin_010|Take 001_Blackhole_skin_006
+  - first:
+      74: 6840052396319409983
+    second: Blackhole_skin_010|Take 001_Blackhole_skin_007
+  - first:
+      74: -1472260370645623467
+    second: Blackhole_skin_010|Take 001_Blackhole_skin_008
+  - first:
+      74: -4349589626555269164
+    second: Blackhole_skin_010|Take 001_Blackhole_skin_009
+  - first:
+      74: -1505080975994902797
+    second: Blackhole_skin_010|Take 001_Blackhole_skin_010
+  - first:
+      74: 1105894443862658508
+    second: Blackhole_skin_010|Take 001_Blackhole_skin_011
+  - first:
+      74: 4835786880287227642
+    second: Blackhole_skin_010|Take 001_Blackhole_skin_012
+  - first:
+      74: 8414128263592981915
+    second: Blackhole_skin_010|Take 001_Blackhole_skin_013
+  - first:
+      74: -6476301978203354672
+    second: Blackhole_skin_011|Take 001_Blackhole_core001
+  - first:
+      74: -675178025017649799
+    second: Blackhole_skin_011|Take 001_Blackhole_core002
+  - first:
+      74: -5184690241653887817
+    second: Blackhole_skin_011|Take 001_Blackhole_ring
+  - first:
+      74: -8181866760270646825
+    second: Blackhole_skin_011|Take 001_Blackhole_skin_001
+  - first:
+      74: -5936723473886133036
+    second: Blackhole_skin_011|Take 001_Blackhole_skin_002
+  - first:
+      74: 1694896552444239066
+    second: Blackhole_skin_011|Take 001_Blackhole_skin_003
+  - first:
+      74: -6069877432040882522
+    second: Blackhole_skin_011|Take 001_Blackhole_skin_004
+  - first:
+      74: 1821383004473689042
+    second: Blackhole_skin_011|Take 001_Blackhole_skin_005
+  - first:
+      74: 6312339939099012096
+    second: Blackhole_skin_011|Take 001_Blackhole_skin_006
+  - first:
+      74: 3720382495297441562
+    second: Blackhole_skin_011|Take 001_Blackhole_skin_007
+  - first:
+      74: 2828902301163378968
+    second: Blackhole_skin_011|Take 001_Blackhole_skin_008
+  - first:
+      74: -389728227746133469
+    second: Blackhole_skin_011|Take 001_Blackhole_skin_009
+  - first:
+      74: -913101362933016977
+    second: Blackhole_skin_011|Take 001_Blackhole_skin_010
+  - first:
+      74: 4683649773374920142
+    second: Blackhole_skin_011|Take 001_Blackhole_skin_011
+  - first:
+      74: 2615852901440598945
+    second: Blackhole_skin_011|Take 001_Blackhole_skin_012
+  - first:
+      74: 661119664043214494
+    second: Blackhole_skin_011|Take 001_Blackhole_skin_013
+  - first:
+      74: -837130041520017805
+    second: Blackhole_skin_012|Take 001_Blackhole_core001
+  - first:
+      74: 52441071102508761
+    second: Blackhole_skin_012|Take 001_Blackhole_core002
+  - first:
+      74: 2805024102402459142
+    second: Blackhole_skin_012|Take 001_Blackhole_ring
+  - first:
+      74: -1679678323834286726
+    second: Blackhole_skin_012|Take 001_Blackhole_skin_001
+  - first:
+      74: -3409133410005203254
+    second: Blackhole_skin_012|Take 001_Blackhole_skin_002
+  - first:
+      74: 6686271880302104246
+    second: Blackhole_skin_012|Take 001_Blackhole_skin_003
+  - first:
+      74: 1244923698352935682
+    second: Blackhole_skin_012|Take 001_Blackhole_skin_004
+  - first:
+      74: -3411592709871717087
+    second: Blackhole_skin_012|Take 001_Blackhole_skin_005
+  - first:
+      74: -5408876168398879743
+    second: Blackhole_skin_012|Take 001_Blackhole_skin_006
+  - first:
+      74: 5034774417718969290
+    second: Blackhole_skin_012|Take 001_Blackhole_skin_007
+  - first:
+      74: -2645839817397808746
+    second: Blackhole_skin_012|Take 001_Blackhole_skin_008
+  - first:
+      74: -1515084803289237815
+    second: Blackhole_skin_012|Take 001_Blackhole_skin_009
+  - first:
+      74: 8761222087012167510
+    second: Blackhole_skin_012|Take 001_Blackhole_skin_010
+  - first:
+      74: 4201731936001259975
+    second: Blackhole_skin_012|Take 001_Blackhole_skin_011
+  - first:
+      74: -9128634010682486340
+    second: Blackhole_skin_012|Take 001_Blackhole_skin_012
+  - first:
+      74: 8985416129067520404
+    second: Blackhole_skin_012|Take 001_Blackhole_skin_013
+  - first:
+      74: -2179309237110645899
+    second: Blackhole_skin_013|Take 001_Blackhole_core001
+  - first:
+      74: -7680700294653256469
+    second: Blackhole_skin_013|Take 001_Blackhole_core002
+  - first:
+      74: -8585697393988522808
+    second: Blackhole_skin_013|Take 001_Blackhole_ring
+  - first:
+      74: -5643173701223922422
+    second: Blackhole_skin_013|Take 001_Blackhole_skin_001
+  - first:
+      74: -6701582233796026642
+    second: Blackhole_skin_013|Take 001_Blackhole_skin_002
+  - first:
+      74: -324955136356319720
+    second: Blackhole_skin_013|Take 001_Blackhole_skin_003
+  - first:
+      74: -4582789920897059314
+    second: Blackhole_skin_013|Take 001_Blackhole_skin_004
+  - first:
+      74: -8027586566299426045
+    second: Blackhole_skin_013|Take 001_Blackhole_skin_005
+  - first:
+      74: 5382834599593516466
+    second: Blackhole_skin_013|Take 001_Blackhole_skin_006
+  - first:
+      74: 121176677129003607
+    second: Blackhole_skin_013|Take 001_Blackhole_skin_007
+  - first:
+      74: 5752519872654375361
+    second: Blackhole_skin_013|Take 001_Blackhole_skin_008
+  - first:
+      74: -2849278112988478102
+    second: Blackhole_skin_013|Take 001_Blackhole_skin_009
+  - first:
+      74: 4444476891905714673
+    second: Blackhole_skin_013|Take 001_Blackhole_skin_010
+  - first:
+      74: -3093718985698031220
+    second: Blackhole_skin_013|Take 001_Blackhole_skin_011
+  - first:
+      74: 9163038408178020920
+    second: Blackhole_skin_013|Take 001_Blackhole_skin_012
+  - first:
+      74: 4714439255402106162
+    second: Blackhole_skin_013|Take 001_Blackhole_skin_013
+  - first:
+      74: -8035354277444842403
+    second: Blackhole_core002|Take 001_Blackhole_core001
+  - first:
+      74: 827191439749767556
+    second: Blackhole_core002|Take 001_Blackhole_core002
+  - first:
+      74: 3777100942925930554
+    second: Blackhole_core002|Take 001_Blackhole_ring
+  - first:
+      74: 2273552914968631543
+    second: Blackhole_core002|Take 001_Blackhole_skin_001
+  - first:
+      74: -8039390813103679177
+    second: Blackhole_core002|Take 001_Blackhole_skin_002
+  - first:
+      74: 47520710856353677
+    second: Blackhole_core002|Take 001_Blackhole_skin_003
+  - first:
+      74: 497971675393286210
+    second: Blackhole_core002|Take 001_Blackhole_skin_004
+  - first:
+      74: 8118149229602206103
+    second: Blackhole_core002|Take 001_Blackhole_skin_005
+  - first:
+      74: -5213030391252781473
+    second: Blackhole_core002|Take 001_Blackhole_skin_006
+  - first:
+      74: -3577659055599880700
+    second: Blackhole_core002|Take 001_Blackhole_skin_007
+  - first:
+      74: -1888784777856189894
+    second: Blackhole_core002|Take 001_Blackhole_skin_008
+  - first:
+      74: 1996646618347555645
+    second: Blackhole_core002|Take 001_Blackhole_skin_009
+  - first:
+      74: 2977616376808106167
+    second: Blackhole_core002|Take 001_Blackhole_skin_010
+  - first:
+      74: -867391228169937441
+    second: Blackhole_core002|Take 001_Blackhole_skin_011
+  - first:
+      74: -9124107755114022690
+    second: Blackhole_core002|Take 001_Blackhole_skin_012
+  - first:
+      74: -1938468883762264947
+    second: Blackhole_core002|Take 001_Blackhole_skin_013
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blackhole_core
+    second: {fileID: 2100000, guid: 19730d807d5f9d54d87609440a624782, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blackhole_ring
+    second: {fileID: 2100000, guid: 0ee3bd753d14d794db094d79d4c44ab8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blackhole_ring2
+    second: {fileID: 2100000, guid: 3c961e5e3a4a4e546a22696e60cabd1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blackhole_skin
+    second: {fileID: 2100000, guid: ea2e5800b50c6b5418993275829ace2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blackhole_skin_inner
+    second: {fileID: 2100000, guid: f933f280002fd6d4684df158b1f5eddf, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
