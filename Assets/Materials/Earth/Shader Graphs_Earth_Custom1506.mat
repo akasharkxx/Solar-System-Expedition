@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shader Graphs_Earth_Custom1506
+  m_Shader: {fileID: -6465566751694194690, guid: 855849ff2ab75b44b83919f291b883c0,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_5371AC2B:
+        m_Texture: {fileID: 2800000, guid: 2aaddb957a8e3054a9f3a3b8f3471b51, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_5EDBEFBD:
+        m_Texture: {fileID: 2800000, guid: 079a3508559024547b947d5ef881e7f3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_799FDBE2:
+        m_Texture: {fileID: 2800000, guid: 2f570e4c2d692f043a11827a37c8d0d8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_A8ED6AEB:
+        m_Texture: {fileID: 2800000, guid: 8ae0a1b80ef622a4a815509e8fb6f5b4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_C91C903E:
+        m_Texture: {fileID: 2800000, guid: de2a7fb9f84db424f829144acd7d2d5f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_47EE2156: 0.25
+    - Vector1_4DC0325A: 0.001
+    - Vector1_75BD3DFF: 0.49
+    - Vector1_8478138F: 1
+    m_Colors: []

@@ -35,7 +35,7 @@ public class SSVGameLoopHandle : MonoBehaviour
 
     //Privates
 
-    private float currentTry, triesWon;
+    private float currentTry, triesWon, tempAlpha;
     private bool isHit = false;
 
     //Other Scripts
@@ -156,6 +156,8 @@ public class SSVGameLoopHandle : MonoBehaviour
         {
             targetArrow.SetActive(true);
             shootButton.interactable = true;
+            tempAlpha = SSVR.alphaInc;
+            SSVR.ChangeAlphaInc(1f);
             RotateTargetArrow();
             //camAnim.Play("Target");
         }
@@ -163,8 +165,9 @@ public class SSVGameLoopHandle : MonoBehaviour
         {
             shootButton.interactable = false;
             targetArrow.SetActive(false);
+            //SSVR.ChangeAlphaInc(speedSlider.value * alphaIncMultiplier);
             //camAnim.Play("Rotation");
-            
+
         }
     }
 
